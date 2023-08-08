@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "257355690880",
+    "project_id": "study-app-4c962",
+    "storage_bucket": "study-app-4c962.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257355690880:android:c3a2a9b0422b6f5dc94765",
+        "android_client_info": {
+          "package_name": "com.example.study_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257355690880-efvfjd3b0ol9tj6hcbr924oqb5vo72f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNgCMZGZZfegYrgvxvtVFk2MszDRznZPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257355690880-efvfjd3b0ol9tj6hcbr924oqb5vo72f2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "257355690880-fr6p1tnlak27uqtuj8jsji2vnrlfu0ck.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.stydyApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257355690880:android:c46f5b8befc2dcf2c94765",
+        "android_client_info": {
+          "package_name": "com.example.stydy_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257355690880-efvfjd3b0ol9tj6hcbr924oqb5vo72f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNgCMZGZZfegYrgvxvtVFk2MszDRznZPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257355690880-efvfjd3b0ol9tj6hcbr924oqb5vo72f2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "257355690880-fr6p1tnlak27uqtuj8jsji2vnrlfu0ck.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.stydyApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
